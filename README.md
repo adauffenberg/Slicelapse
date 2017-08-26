@@ -1,6 +1,6 @@
 # Slicelapse
-Timelapse photography MATLAB project
-This project modifies traditional timelapse to create unique images. See http://aerospaceandy.com/slicelapse/ for a detailed explanation.
+
+This project modifies traditional timelapse to create unique images.
 
 Timelapse.m saves each slice to disk during creation
  - Pros: Max image resolution
